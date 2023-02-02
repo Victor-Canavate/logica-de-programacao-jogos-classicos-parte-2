@@ -12,3 +12,8 @@ Que por sua vez, faz parte da Alura.
 ## Todo o código é funcional e executável
 
 Sinta-se à vontade para explorar e manipular todo o código presente no repositório, fica ao seu critério.
+
+### Observação
+
+Este curso apresenta apenas material didático (como imagens, sons, etc...).
+Todo o aprendizado foi centrado no Scratch e em editores de código na Web.
